@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neroonose
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learned SQL, Tableau and Excel
-- 💞️ I’m looking to collaborate on some SQL projects.
+- 🌱 I’m proficient in  SQL, Tableau and Excel
+- 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me vial email neroonose@gmail.com
 
 <!---
