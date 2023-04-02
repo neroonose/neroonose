@@ -1,6 +1,6 @@
 # Hi, I’m @neroonose
 ### I’m a Data Analyst
-- 🌱 I’m proficient in  SQL, Tableau, Python and Excel
+- 🌱 I’m proficient in  SQL, Tableau, PowerBI, Python and Excel
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me vial email neroonose@gmail.com
 
