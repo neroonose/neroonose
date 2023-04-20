@@ -1,10 +1,13 @@
-# Hi, I’m @neroonose
-### I’m a Data Analyst
+![Nero Banner](https://user-images.githubusercontent.com/86878082/233376257-c3b4c8ad-835b-454a-bade-17b5f133a94f.png)
+
+![Website](https://img.shields.io/website?label=WEBSITE&logoColor=%23766e74&up_color=%234b4a4c&url=https%3A%2F%2Fneroonose.github.io%2Fnerodata%2F)
+![Twitter URL](https://img.shields.io/twitter/url?color=%23766e74&label=TWITTER&logoColor=%23766e74&style=social&url=https%3A%2F%2Ftwitter.com%2Fneroonose%2F)
+
 - 🌱 I’m proficient in  SQL, Tableau, PowerBI, Python and Excel
 - 📫 How to reach me vial email neroonose@gmail.com
 
 <!---
-neroonose/neroonose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
