@@ -43,7 +43,7 @@ As a passionate and skilled Data Analyst, I am driven by the ability of data to 
     <img src="https://img.shields.io/static/v1?label=|&message=MEDIUM&color=white&style=plastic&logo=medium&logo-color=green"/>
   </a>
         </p>
-        <p><strong>Python, Tableau & Figma</strong> - The launch of Apex Legends Mobile Twitter Analysis style.</p>
+        <p><strong>Python, Tableau & Figma</strong> - The launch of Apex Legends Mobile Twitter Analysis.</p>
     </td>
   </tr>   
 </table>
