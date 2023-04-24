@@ -8,14 +8,45 @@
 
 
 As a passionate and skilled Data Analyst, I am driven by the ability of data to drive informed decisions and create positive impact. With a strong foundation in statistical analysis, programming, and business acumen, I am dedicated to utilizing data-driven insights to empower organizations to achieve their goals. From analyzing complex datasets to developing interactive dashboards and reports, I am committed to leveraging my skills to drive innovation and create value through data analysis.
-<!---
- ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Esports Africa Tournament</h3>
+        <br />
+        <a target="_blank" href="https://medium.com/@neroonose/10n8e-call-of-duty-mobile-multiplayer-showdown-449f6628de93">
+            <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Z5798noIH7e39ldezjUV7w.png" width="100%" alt="Esports Africa Tournament"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  </a>  
+  <a href="https://medium.com/@neroonose/10n8e-call-of-duty-mobile-multiplayer-showdown-449f6628de93" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=MEDIUM&color=white&style=plastic&logo=medium&logo-color=green"/>
 
-
-
+  </a>
+      </p>
+        <p><strong>Discord, Spreasheet, Tableau, & Figma</strong> - Analysis of a Call of Duty Mobile Tournament in Africa!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Apex Legends Mobile"</h3>
+        <br />
+      <a target="_blank" href="https://medium.com/@neroonose/apex-legends-mobile-twitter-analysis-a360a2fcde67">
+            <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*7UA6Z6iWHxrmtchQp8OA8Q.png" width="100%"  alt="Apex Legends Mobile"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://medium.com/@neroonose/apex-legends-mobile-twitter-analysis-a360a2fcde67" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=MEDIUM&color=white&style=plastic&logo=medium&logo-color=green"/>
+  </a>
+        </p>
+        <p><strong>Python, Tableau & Figma</strong> - The launch of Apex Legends Mobile Twitter Analysis style.</p>
+    </td>
+  </tr>   
+</table>
 
 <h1 align="center">Skills</h1> 
 <p align="center">
