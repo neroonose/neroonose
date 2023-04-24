@@ -16,8 +16,17 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neroonose&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neroonose&layout=compact&card_width=445)](https://github.com/neroonose/github-readme-stats)
- 
- ☎️ Connect with me on:<br>
-* <a href="https://www.linkedin.com/in/nero-onose-495269163/">Linkedin</a><br>
-* <a href="https://twitter.com/nerodata_">Twitter</a> <br>
-* <a href="https://medium.com/@jutivia">Medium</a><br>
+<h1 align="center">Skills</h1> 
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=Python&color=white&style=plastic&logo=python"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SQL&color=grey&style=plastic&logo=sql"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PostgreSQL&color=white&style=plastic&logo=postgresql"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BigQuery&color=grey&style=plastic&logo=google-cloud"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PowerBI&color=white&style=plastic&logo=power-bi"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Tableau&color=grey&style=plastic&logo=tableau"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MS%20Excel&color=white&style=plastic&logo=microsoft-excel"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Data%20Cleaning&color=grey&style=plastic&logo=datacamp"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Visualization&color=white&style=plastic&logo=tableau"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Storytelling&color=grey&style=plastic&logo=google-drive"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Statistics&color=white&style=plastic&logo=statamic"/>
+</p>
