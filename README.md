@@ -1,7 +1,11 @@
 ![Nero Banner](https://user-images.githubusercontent.com/86878082/233376257-c3b4c8ad-835b-454a-bade-17b5f133a94f.png)
 
-![Website](https://img.shields.io/website?label=WEBSITE&logoColor=%23766e74&up_color=%234b4a4c&url=https%3A%2F%2Fneroonose.github.io%2Fnerodata%2F)
-![Twitter URL](https://img.shields.io/twitter/url?color=%23766e74&label=TWITTER&logoColor=%23766e74&style=social&url=https%3A%2F%2Ftwitter.com%2Fneroonose%2F)
+<p align="center">
+  <img src="https://img.shields.io/website?label=WEBSITE&logoColor=%23766e74&up_color=%234b4a4c&url=https%3A%2F%2Fneroonose.github.io%2Fnerodata%2F" alt="Website">
+  <img src="https://img.shields.io/twitter/url?color=%23766e74&label=TWITTER&logoColor=%23766e74&style=social&url=https%3A%2F%2Ftwitter.com%2Fneroonose%2F" alt="Twitter">
+  <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=%234b4a4c&style=plastic&logo=linkedin&logo-color=white=https://www.linkedin.com/in/neroonose/" alt="LinkedIn">
+</p>
+
 
 As a passionate and skilled Data Analyst, I am driven by the ability of data to drive informed decisions and create positive impact. With a strong foundation in statistical analysis, programming, and business acumen, I am dedicated to utilizing data-driven insights to empower organizations to achieve their goals. From analyzing complex datasets to developing interactive dashboards and reports, I am committed to leveraging my skills to drive innovation and create value through data analysis.
 <!---
