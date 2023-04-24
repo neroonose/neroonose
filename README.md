@@ -3,9 +3,7 @@
 ![Website](https://img.shields.io/website?label=WEBSITE&logoColor=%23766e74&up_color=%234b4a4c&url=https%3A%2F%2Fneroonose.github.io%2Fnerodata%2F)
 ![Twitter URL](https://img.shields.io/twitter/url?color=%23766e74&label=TWITTER&logoColor=%23766e74&style=social&url=https%3A%2F%2Ftwitter.com%2Fneroonose%2F)
 
-- 🌱 I’m proficient in  SQL, Tableau, PowerBI, Python and Excel
-- 📫 How to reach me vial email neroonose@gmail.com
-
+As a passionate and skilled Data Analyst, I am driven by the ability of data to drive informed decisions and create positive impact. With a strong foundation in statistical analysis, programming, and business acumen, I am dedicated to utilizing data-driven insights to empower organizations to achieve their goals. From analyzing complex datasets to developing interactive dashboards and reports, I am committed to leveraging my skills to drive innovation and create value through data analysis.
 <!---
  ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neroonose&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neroonose&layout=compact&card_width=445)](https://github.com/neroonose/github-readme-stats)
+
 <h1 align="center">Skills</h1> 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=Python&color=white&style=plastic&logo=python"/>
