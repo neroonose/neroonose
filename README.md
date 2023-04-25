@@ -1,9 +1,9 @@
 ![Nero Banner](https://user-images.githubusercontent.com/86878082/233376257-c3b4c8ad-835b-454a-bade-17b5f133a94f.png)
 
 <p align="center">
-  <img src="https://img.shields.io/website?label=WEBSITE&logoColor=%23766e74&up_color=%234b4a4c&url=https%3A%2F%2Fneroonose.github.io%2Fnerodata%2F" alt="Website">
-  <img src="https://img.shields.io/twitter/url?color=%23766e74&label=TWITTER&logoColor=%23766e74&style=social&url=https%3A%2F%2Ftwitter.com%2Fneroonose%2F" alt="Twitter">
-  <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=%234b4a4c&style=plastic&logo=linkedin&logo-color=white=https://www.linkedin.com/in/neroonose/" alt="LinkedIn">
+  <a href="https://neroonose.github.io/nerodata/"><img src="https://img.shields.io/website?label=WEBSITE&logoColor=%23766e74&up_color=%234b4a4c&url=https://neroonose.github.io/nerodata/" alt="Website"></a>
+  <a href="https://twitter.com/neroonose"><img src="https://img.shields.io/twitter/url?color=%23766e74&label=TWITTER&logoColor=%23766e74&style=social&url=https://twitter.com/neroonose" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/neroonose/"><img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=%234b4a4c&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 
