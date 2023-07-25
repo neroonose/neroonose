@@ -61,4 +61,5 @@ As a passionate and skilled Data Analyst, I am driven by the ability of data to 
     <img src="https://img.shields.io/static/v1?label=|&message=Visualization&color=white&style=plastic&logo=tableau"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Storytelling&color=grey&style=plastic&logo=google-drive"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Statistics&color=white&style=plastic&logo=statamic"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=dbt&color=white&style=plastic&logo=dbt"/>
 </p>
